@@ -7,6 +7,6 @@ public class LinkedListDemo {
 
 	public static void main(String[] args) {
 		
-		List list = new LinkedList();
+		
 	}
 }
