@@ -8,6 +8,8 @@ public class LinkedListDemo {
 	public static void main(String[] args) {
 		
 		System.out.println("hi..i have made some changes into clone copy from remote repository");
+		System.out.println("hi..change from remote repository");
+		
 		
 	}
 }
