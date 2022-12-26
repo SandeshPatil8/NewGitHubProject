@@ -8,15 +8,14 @@ public class LinkedListDemo {
 	public static void main(String[] args) {
 		
 		System.out.println("hi..i have made some changes into clone copy from remote repository");
-<<<<<<< HEAD
 		System.out.println("hi..change from remote repository");
 		System.out.println("local change");
-=======
+
 		System.out.println("this is change from master branch");
 		System.out.println("this is");
 	
 		
->>>>>>> f0dbfab5f12ad2cd070afbd0f2719c44bd6ec367
+
 		
 		
 	}
